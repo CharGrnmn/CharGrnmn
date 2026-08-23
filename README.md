@@ -1,1 +1,1 @@
-Test
+After using GitHub for about 15 years, I now self-host my Git. I believe it makes complete sense to do so in the agentic AI era and beyond. My actions from this point onward will speak for themselves.
